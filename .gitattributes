@@ -1,5 +1,5 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+UnityPlayer.dll filter=lfs diff=lfs merge=lfs -text
+The[[:space:]]Throne[[:space:]]of[[:space:]]Valdoriam_Data" filter=lfs diff=lfs merge=lfs -text
 level1.resS filter=lfs diff=lfs merge=lfs -text
 sharedassets1.assets.resS filter=lfs diff=lfs merge=lfs -text
 sharedassets2.assets.resS filter=lfs diff=lfs merge=lfs -text
